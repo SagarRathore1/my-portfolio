@@ -45,7 +45,7 @@ function App() {
   // --- DATA ---
   const educationData = [
     { title: "B.Tech in Mechanical Engineering", organization: "Delhi Technological University (DTU)", date: "2023 - 2027", description: "Current CGPA: 8.25", tech: ["Engineering", "Mathematics"] },
-    { title: "Grade XII (CBSE)", organization: "Govt. Sarv. Bal Vidyalaya No.1", date: "2022", description: "Percentage: 81.6%", tech: ["Science"] },
+    { title: "Grade XII (CBSE)", organization: "Govt. Sarv. Bal Vidyalaya No.1, Yamuna Vihar", date: "2022", description: "Percentage: 81.6%", tech: ["Science"] },
     { 
       title: "Grade X (CBSE)", 
       organization: "Govt. Sarv. Bal Vidyalaya No.1, Yamuna Vihar", 
