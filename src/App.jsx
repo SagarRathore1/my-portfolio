@@ -10,6 +10,7 @@ import dtuLogo from './assets/dtu-logo.png';
 import adroitLogo from './assets/adroit-logo.png';
 import vichargoLogo from './assets/vichargo-logo.png';
 import roboticsLogo from './assets/robotics-logo.png';
+import drdoLogo from './assets/drdo-logo.png';
 
 // Components
 import Navbar from './components/Navbar';
@@ -62,6 +63,14 @@ function App() {
     description: "Analyzed workflow across 3 educational branches, restructuring schedules and transforming a 30-PC lab into a Coding/CBT Hub.", 
     tech: ["Operations", "Workflow Analysis"],
     image: adroitLogo // Add this
+  },
+  
+  {  title: "Research Intern", 
+    organization: "DRDO - Solid State Physics Laboratory (SSPL)", 
+    date: "Dec 2025 - Jan 2026", 
+    description: "Fabricated 4H-SiC epi-ready wafers using PVT crystal growth and CMP. Quantified structural defects via HRXRD and X-Ray Topography to benchmark defense-grade semiconductor quality.", 
+    tech: ["Semiconductor Fab", "HRXRD", "Crystal Growth"],
+    image: drdoLogo 
   },
   { 
     title: "Event Management USIP Intern", 
