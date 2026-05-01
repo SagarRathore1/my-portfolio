@@ -110,8 +110,8 @@ function App() {
     { title: "Project Phoenix | VicharGo", 
     description: "Engineered a high-impact recovery roadmap for an EdTech platform experiencing a 98% traffic decline. Restructured the business model to target a 1.5 Lakh Crore market, focusing on sustainable growth and user retention.", 
     tech: ["Business Strategy", "Market Analysis", "Consulting"], 
-    github: "#", 
-    live: "#", 
+    github: "https://www.linkedin.com/posts/sagar-rathore-dtu_vichargoconsulting-teamwork-consulting-activity-7400799879725465600-3gPk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWMz0UBM8V7cA2-9QKRWHhznWN6OGFfSZs", 
+    live: "https://www.linkedin.com/posts/sagar-rathore-dtu_vichargoconsulting-teamwork-consulting-activity-7400799879725465600-3gPk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWMz0UBM8V7cA2-9QKRWHhznWN6OGFfSZs", 
     image: phoenixImg },
     
     {title: "Website Performance Analysis", 
