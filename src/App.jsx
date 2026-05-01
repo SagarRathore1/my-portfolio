@@ -117,8 +117,8 @@ function App() {
     {title: "Website Performance Analysis", 
     description: "Comprehensive analysis using Python. Scrutinized session volume and engagement across traffic sources to optimize strategies.", 
     tech: ["Python", "Data Analysis"], 
-    github: "#", 
-    live: "#", 
+    github: "https://github.com/SagarRathore1/Website-Performance-Analysis", 
+    live: "https://github.com/SagarRathore1/Website-Performance-Analysis", 
     image: performanceImg },
 
     { 
@@ -126,7 +126,7 @@ function App() {
     description: "Developed an interactive dashboard to track workforce metrics. Transformed raw HR data into actionable insights.", 
     tech: ["Power BI", "DAX"], 
     github: "https://github.com/SagarRathore1/HR-ANALYTICS-DASHBOARD", 
-    live: "#", 
+    live: "https://github.com/SagarRathore1/HR-ANALYTICS-DASHBOARD", 
     image: hrImg // Using the imported variable here
   },
 
@@ -135,7 +135,7 @@ function App() {
     description: "Conducted a comprehensive annual performance analysis uncovering sales trends and demographics.", 
     tech: ["Data Analysis", "Excel"], 
     github: "https://github.com/SagarRathore1/Vindra-Store-Annual-Report-2022", 
-    live: "#", 
+    live: "https://github.com/SagarRathore1/Vindra-Store-Annual-Report-2022", 
     image: vindraImg // Using the imported variable here
   }
   ];
