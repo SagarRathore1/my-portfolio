@@ -103,8 +103,8 @@ function App() {
     title: "Retail Supply Chain Dashboard", 
     description: "Modeled a multi-regional retail dataset. Identified a 20% profitability leakage and projected a 15% margin improvement.", 
     tech: ["Power BI", "DAX"], 
-    github: "#", 
-    live: "#", 
+    github: "https://github.com/SagarRathore1/SUPER-STORE-SALES-DASHBOARD", 
+    live: "https://github.com/SagarRathore1/SUPER-STORE-SALES-DASHBOARD", 
     image: retailImg 
   },
     { title: "Project Phoenix | VicharGo", 
