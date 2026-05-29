@@ -11,6 +11,7 @@ import adroitLogo from './assets/adroit-logo.png';
 import vichargoLogo from './assets/vichargo-logo.png';
 import roboticsLogo from './assets/robotics-logo.png';
 import drdoLogo from './assets/drdo-logo.png';
+import edtechImg from './assets/edtech-analytics.png';
 
 // Components
 import Navbar from './components/Navbar';
@@ -128,6 +129,15 @@ function App() {
     github: "https://github.com/SagarRathore1/HR-ANALYTICS-DASHBOARD", 
     live: "https://github.com/SagarRathore1/HR-ANALYTICS-DASHBOARD", 
     image: hrImg // Using the imported variable here
+  },
+   
+  { 
+    title: "EdTech App User Analytics", 
+    description: "Built an Excel-based analytics framework to evaluate user engagement, subscription retention, and drop-off trends. Cleaned raw usage data and developed dynamic dashboards using Pivot Tables and advanced formulas to drive operational metrics.", 
+    tech: ["Excel", "Data Cleaning", "Dashboard Design"], 
+    github: "https://github.com/SagarRathore1/Edtech-App-Analytics", 
+    live: "#", 
+    image: edtechImg
   },
 
   { 
