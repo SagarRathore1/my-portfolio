@@ -33,8 +33,8 @@ const Hero = () => {
 
           {/* Social Links */}
           <div className="flex justify-center md:justify-start space-x-6 text-2xl text-gray-600 dark:text-gray-400">
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors"><FaGithub /></a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors"><FaLinkedin /></a>
+            <a href="https://github.com/SagarRathore1" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors"><FaGithub /></a>
+            <a href="https://www.linkedin.com/in/sagar-rathore-dtu/" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors"><FaLinkedin /></a>
             <a href="mailto:sagarfromdtu@gmail.com" className="hover:text-primary transition-colors"><FaEnvelope /></a>
           </div>
         </motion.div>
