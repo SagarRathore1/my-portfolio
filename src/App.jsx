@@ -12,6 +12,7 @@ import vichargoLogo from './assets/vichargo-logo.png';
 import roboticsLogo from './assets/robotics-logo.png';
 import drdoLogo from './assets/drdo-logo.png';
 import edtechImg from './assets/edtech-analytics.png';
+import climateTrendsLogo from './assets/Climate-Trends-Logo.jpg';
 
 // Components
 import Navbar from './components/Navbar';
@@ -57,6 +58,14 @@ function App() {
   ];
 
   const experienceData = [
+    { 
+    title: "Data Analyst Intern", 
+    organization: "Climate Trends, New Delhi", 
+    date: "July 2026 - Present", 
+    description: "Building a data framework correlating 20 years of pan-India crop and IMD weather data to forecast an 8-11% rice yield drop across 5 high-risk states. Simulated agricultural water-energy dependencies and methane emissions to architect data-driven policies targeting a 20% reduction in groundwater extraction.", 
+    tech: ["Data Modeling", "Predictive Analytics", "Policy Strategy", "Python/Excel"],
+    image: climateTrendsLogo 
+  },
   { 
     title: "Project Intern", 
     organization: "Adroit Classes, Narela", 
