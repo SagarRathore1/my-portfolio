@@ -13,6 +13,7 @@ import roboticsLogo from './assets/robotics-logo.png';
 import drdoLogo from './assets/drdo-logo.png';
 import edtechImg from './assets/edtech-analytics.png';
 import climateTrendsLogo from './assets/Climate-Trends-Logo.jpg';
+import myntraImg from './assets/myntra-teardown.png';
 
 // Components
 import Navbar from './components/Navbar';
@@ -117,6 +118,15 @@ function App() {
     live: "https://github.com/SagarRathore1/SUPER-STORE-SALES-DASHBOARD", 
     image: retailImg 
   },
+  { 
+    title: "Myntra UX Teardown & Price Confidence MVP", 
+    description: "Formulated a comprehensive product teardown targeting wishlist and checkout drop-offs for Myntra. Conducted primary research (n=50) to conceptualize a '24-Hour Price Lock' feature and upfront fee transparency framework, projecting a potential +₹32.26 increase in Net GMV per active user.", 
+    tech: ["Product Strategy", "User Research", "Data Modeling", "React / Tailwind Prototype"], 
+    github: "https://drive.google.com/file/d/1j3hS7dUVwhrszcKoIYasSauyxg8WBF0a/view", // Link to your code profile
+    live: "https://drive.google.com/file/d/1j3hS7dUVwhrszcKoIYasSauyxg8WBF0a/view", // Your official presentation link!
+    image: myntraImg 
+  },
+
     { title: "Project Phoenix | VicharGo", 
     description: "Engineered a high-impact recovery roadmap for an EdTech platform experiencing a 98% traffic decline. Restructured the business model to target a 1.5 Lakh Crore market, focusing on sustainable growth and user retention.", 
     tech: ["Business Strategy", "Market Analysis", "Consulting"], 
